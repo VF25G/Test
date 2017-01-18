@@ -6,7 +6,7 @@
 //  Copyright © 2017年 MiniCongee. All rights reserved.
 //
 //  branch test
-//  Creating a new branch is quick & simple.
+//  Creating a new branch is quick and simple.
 
 
 #import <UIKit/UIKit.h>
